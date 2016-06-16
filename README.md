@@ -1,2 +1,2 @@
-Game boy emulator
-GB ROCKS
+
+NES emulator
